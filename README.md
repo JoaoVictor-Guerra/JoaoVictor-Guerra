@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaovictor-guerra&label=Profile%20views&color=0e75b6&style=flat" alt="joaovictor-guerra" /> </p>
 
-- 🌱 Atualmente estou estudando e desenvolvendo minhas habilidades em **JavaScript, jQuery, React**
-
-- 📝 Escrevo artigos em [https://medium.com/@joaovick11](https://medium.com/@joaovick11)
+- 🌱 Atualmente estou estudando e desenvolvendo minhas habilidades em **JavaScript, jQuery, Python**
 
 - 📫 Pode me contatar em **jvgplhg@gmail.com**
 
