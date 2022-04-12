@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaovictor-guerra&label=Profile%20views&color=0e75b6&style=flat" alt="joaovictor-guerra" /> </p>
 
-- 🌱 Atualmente estou estudando e desenvolvendo minhas habilidades em **Python, Django, Flask**
+- 🌱 Web developer (Vue.js)
 
-- 📝 Escrevo artigos em [https://medium.com/@joaovick11](https://medium.com/@joaovick11)
-
-- 💬 Ask me about **Python, C, Java**
+- 💬 Ask me about **Python, C, Java, JavaScript**
 
 - 📫 Pode me contatar em **jvgplhg@gmail.com**
 
